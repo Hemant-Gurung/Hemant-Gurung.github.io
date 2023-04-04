@@ -1,6 +1,6 @@
 import React from 'react';
 import { HiArrowNarrowRight, HiArrowRight } from 'react-icons/hi';
-import me from '../assets/me.png';
+import me from '../assets/MyAvatar.png';
 import { Link } from "react-scroll"; 
 
 
