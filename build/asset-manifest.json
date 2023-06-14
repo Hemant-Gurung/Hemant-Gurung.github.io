@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4cb87f6.css",
+    "main.js": "/static/js/main.c5dcb46b.js",
+    "static/media/Chip-8.gif": "/static/media/Chip-8.d6c281574acf1a4f34ab.gif",
+    "static/media/DualRastizer.gif": "/static/media/DualRastizer.00cec34d571fa139a586.gif",
+    "static/media/Heaven-3D.png": "/static/media/Heaven-3D.3c61b966fc8f7a99c2bb.png",
+    "static/media/portfolio2.jpg": "/static/media/portfolio2.8c4e8055d57435ba8c19.jpg",
+    "static/media/Tron.jpeg": "/static/media/Tron.7d7fe6a0ad82409edc5d.jpeg",
+    "static/media/Extendo.png": "/static/media/Extendo.c6b66b369ff05447088b.png",
+    "static/media/MyResume.pdf": "/static/media/MyResume.baa32791613935ed3e7e.pdf",
+    "static/media/MyAvatar.png": "/static/media/MyAvatar.a08f674a21e462a1441f.png",
+    "static/media/code2.png": "/static/media/code2.991831d0a626b3b8e8b3.png",
+    "index.html": "/index.html",
+    "main.e4cb87f6.css.map": "/static/css/main.e4cb87f6.css.map",
+    "main.c5dcb46b.js.map": "/static/js/main.c5dcb46b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4cb87f6.css",
+    "static/js/main.c5dcb46b.js"
+  ]
+}
