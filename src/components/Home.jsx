@@ -16,8 +16,14 @@ const Home =()=> {
                     Software Developer with specialization in Game Development.
                 </h2>
                 <p className="text-gray-500 py-4 max-w-md">
-                    I am a software developer with a major in Game Development. Currently, I am working as an intern in Federal police Limburg, Belgium. 
-                    I have made small projects in varities of game engines, such as Unreal engine 4/5, unity engine, overlord engine and custom made engines.
+                I am a dedicated software developer specializing in Game Development.
+                 Presently, I am contributing my expertise as a software engineer at
+                  GreenIsland, Belgium. Throughout my journey, I have undertaken 
+                  numerous projects in a diverse range of game engines, including
+                   Unreal Engine 4/5, Unity Engine, Overlord Engine, and even 
+                   custom-made engines. This rich experience has equipped me with 
+                   a wide-ranging skill set, enabling me to thrive in the 
+                   ever-evolving world of game development.
                 </p>
                 <div>
                     <Link

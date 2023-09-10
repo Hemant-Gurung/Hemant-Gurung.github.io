@@ -27,9 +27,16 @@ const About = () => {
             <div>
               <p>
                 {" "}
-                As a recent graduate with an internship in software/Game development, 
-                I have a strong foundation in game development principles and experience working collaboratively in a team environment.
-                 I am passionate about creating meaningful gaming experiences and am eager to continue learning and growing in the industry.
+                As a recent graduate in the field of software 
+                and game development, I've built a solid foundation
+                 in game development principles. My experience working
+                  collaboratively within dynamic teams has not only 
+                  honed my skills but also fueled my passion for 
+                  crafting immersive and impactful gaming experiences.
+                   I'm excited to embark on a journey of continuous 
+                   learning and growth within the industry, 
+                   driven by my unwavering enthusiasm for 
+                   creating meaningful games.
               </p>
             </div>
           </div>
